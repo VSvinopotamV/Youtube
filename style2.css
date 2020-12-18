@@ -1,0 +1,17 @@
+.heig1{height: 70px}
+.heig2{height: 900px}
+.inp1{text-decoration: none; border:none;}
+.redd{height: 40px}
+.redd3{height: 65px}
+.redd2{height: 150px}
+.img{height: }
+.mbb{margin-bottom: 10px}
+.responsive-container  {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+.razmer{height: 875px}
+.like{height: 50px; width: 100}
